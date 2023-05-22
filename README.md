@@ -3,9 +3,13 @@
 ![Restaurant DB](https://github.com/Meenal-Ramteke/Restaurant-Order-Analysis/assets/123671252/dac5be7d-51bd-4cf1-8166-71100dad1694)
 
 
+
 About Data:
+
 This dataset has details of orders placed by customers to the restaurants in a food delivery app. There are 500 orders that were placed on a day. We need to find the trends and patterns in their orders. This dataset is obtained from www.kaggle.com
+
 Data Cleaning and Processing- MYSQL
+
 Data Analysis and Visualization – Microsoft Power BI
 
 Questions:
@@ -31,4 +35,5 @@ Summary of findings:
 9.	Most deliveries are done in Zone D and time taken by deliveries are mostly in between 15-45 minutes.
 
 Conclusion:
+
 	Most of the restaurants are located in Zone D which has most orders and sales. People prefer North Indian Cuisine and customers place orders mostly between 11am-14pm, as during this time most of the people have lunch break so it’s peak time for them so they to be prepared beforehand and requires more manpower during this hours.
