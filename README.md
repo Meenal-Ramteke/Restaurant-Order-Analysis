@@ -32,6 +32,7 @@ EDA was conducted using Microsoft Power BI to explore the dataset and uncover in
 Based on the provided questions, data analysis will be performed to answer each query using appropriate statistical and analytical techniques. This involves querying the dataset, performing calculations, and deriving meaningful insights.
 
 ## Results
+![Restaurant DB](https://github.com/Meenal-Ramteke/Restaurant-Order-Analysis/assets/123671252/dac5be7d-51bd-4cf1-8166-71100dad1694)
 1. The restaurant "Ellora and The Cave Hotel" received the most orders (32 orders).
 2. The customer who ordered the most purchased 7 items.
 3. Peak order times are around 11 am to 2 pm.
